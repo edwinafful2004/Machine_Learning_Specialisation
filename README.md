@@ -60,9 +60,8 @@ In this project, we:
 linear-regression-from-scratch/
 │
 ├── Linear_Regression_From_Scratch.ipynb   # Main Jupyter Notebook
-├── public_tests.py                        # Public test functions (if used)
 ├── README.md                              # Project documentation
-└── data/                                  # (Optional) sample data files
+
 ```
 
 ---
